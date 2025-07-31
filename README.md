@@ -35,7 +35,7 @@ The exported Keras model was tested locally with new images and performed very w
 3. Run predictions on any image of dates.
 4. The model will return the predicted class name.
 
-## 📷 Example (Optional)
+## 📷 Example 
 <img width="1438" height="790" alt="Screenshot 2025-07-31 at 5 18 32 AM" src="https://github.com/user-attachments/assets/13b5623c-d89c-4942-a802-eb8402162b31" />
 ## ⚠️ Notes
 
